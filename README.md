@@ -1,4 +1,4 @@
-# CodeIgniter POS Database Activity
+# CodeIgniter POS Database Activity.
 
 This CodeIgniter 4 POS application displays customer and user accounts from the MySQL database `pos_tfa2`. The account pages use CodeIgniter Models and Query Builder instead of static PHP arrays.
 
